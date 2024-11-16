@@ -78,8 +78,7 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/Chalchi.org/flamenco.jpg", 
-       "images/Chalchi.org/oso.jpg",
+       "images/Chalchi.org/flamenco_azul.jpg", 
        "images/Chalchi.org/tortuga.jpg"
         ],  {duration: 2000, fade: 750});
     });
